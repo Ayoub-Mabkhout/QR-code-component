@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Ayoub-Mabkhout/QR-code-component.git)
+- Hosted Web Page URL: [](https://qr-code-component.ayoub-mabkhout.repl.co/)
 
 ## My process
 
